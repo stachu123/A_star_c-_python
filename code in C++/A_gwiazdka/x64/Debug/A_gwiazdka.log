@@ -1,0 +1,6 @@
+﻿  A_gwiazdka.cpp
+C:\Users\stani\source\repos\A_gwiazdka\A_gwiazdka\A_gwiazdka.cpp(24,29): warning C4018: "<=": niezgodność typu ze znakiem/bez znaku
+C:\Users\stani\source\repos\A_gwiazdka\A_gwiazdka\A_gwiazdka.cpp(25,30): warning C4018: "<=": niezgodność typu ze znakiem/bez znaku
+C:\Users\stani\source\repos\A_gwiazdka\A_gwiazdka\A_gwiazdka.cpp(80,10): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\stani\source\repos\A_gwiazdka\A_gwiazdka\A_gwiazdka.cpp(97,26): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+  A_gwiazdka.vcxproj -> C:\Users\stani\source\repos\A_gwiazdka\x64\Debug\A_gwiazdka.exe
